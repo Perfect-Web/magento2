@@ -1,7 +1,7 @@
 {
     "name": "magento/magento2ce",
     "description": "Magento 2 (Community Edition)",
-    "type": "project",
+    "type": "library",
     "version": "0.74.0-beta7",
     "license": [
         "OSL-3.0",
